@@ -37,5 +37,4 @@ Fork the repo and clone down to your local machine. Once you have the latest ver
 The pull request body should describe why these changes are necessary. If it is a bug, provide a description of what steps to take to reproduce this bug. If these guidelines are not met, pull requests will not be reviewed or accepted.
 
 ## Contact / Questions
-  If you liked this project and want to see more, feel free to check out my other repos [here](https://github.com/alc0ve).  
-  For any questions or inquiries, you can reach me at cmcclai26@gmail.com for further information.
+  Don't hesitate to contact me. 
